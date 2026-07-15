@@ -59,6 +59,7 @@ endif()
 # Same on both platforms.
 list(APPEND ALL_SOURCES
     ${CMAKE_CURRENT_SOURCE_DIR}/Input/InputProcessingSdl.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Foundation/Strings/LocaleCollate.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/Input/InputDispatch.cpp
 )
 

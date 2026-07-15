@@ -48,6 +48,7 @@ set(POSEIDON_BASE_TEST_SOURCES
     Containers/test_traits_staticarray_ops.cpp
     Framework/test_potime.cpp
     Strings/test_strings.cpp
+    Strings/test_locale_collate.cpp
     Types/test_enum_decl.cpp
     Types/test_llinks.cpp
     Types/test_pointers.cpp
