@@ -92,6 +92,7 @@ set(MERGED_SUPPORT_SOURCES
     ${CMAKE_CURRENT_SOURCE_DIR}/Foundation/Math/Statistics.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/Foundation/Strings/StrFormat.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/Foundation/Strings/Mbcs.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Foundation/Strings/LocaleCollate.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/Foundation/Types/LLinks.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/Foundation/Threads/PoCritical.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/Foundation/Threads/PoSemaphore.cpp
